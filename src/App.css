@@ -1,0 +1,7 @@
+.app{
+    display: grid;
+    min-height: 100vh; /*take full height of browser*/
+    align-items: center;
+    justify-content: center;
+    background-color: #e2d4ff;
+}
